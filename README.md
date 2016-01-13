@@ -1,4 +1,4 @@
-localcloud-common
+Setup SSH
 =========
 This role is designed to init fresh boxes wit ha minimal set of software. It will sync box clock, install default set
 of software on a fresh box, create remote user of your choice and add it to `www-data` group enabling passwordless sudo,
